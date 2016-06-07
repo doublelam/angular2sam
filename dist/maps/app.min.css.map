@@ -1,0 +1,1 @@
+{"version":3,"sources":["apart/test.less"],"names":[],"mappings":"AAAA,KACI,eAAA,CAEJ,WACG,qBAAA,CAEH,UACI,sBACA,sBACA,YAAA,CAAA","file":"../styles/app.min.css","sourcesContent":["body {\r\n    background: #eee;\r\n}\r\n.fatherdiv {\r\n   border: 1px solid #ccc; \r\n}\r\n.childdiv {\r\n    border: 1px solid #aaa;\r\n    background-color: #bbb;\r\n    padding: 10px;\r\n}"]}
